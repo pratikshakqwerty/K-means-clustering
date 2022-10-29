@@ -1,2 +1,2 @@
-# K-means-clustering-
+# K-means-clustering
 Customer Segmentation using K means clustering 
